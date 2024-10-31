@@ -22,8 +22,8 @@ namespace Tyuiu.MedvedevMM.Sprint2.Task0.V19
             Console.WriteLine("* Выполнил: Медведев Матвей Максимович | РППб-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, > , <= , >=)       *");
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, > , <= , >=) и     *");
+            Console.WriteLine("* арифметических выражений                                                *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
